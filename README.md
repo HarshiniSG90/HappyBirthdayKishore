@@ -1,6 +1,5 @@
-# Harshini.SG.github.io
-Happy Birthday
+# harshini.sg.github.io.
+Happy Birthday Kishuuu :) 
 
-A simple birthday page made using Bootstrap & scrollReveal.js
-
+https://harshini.sg.github.io.
 

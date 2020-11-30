@@ -1,4 +1,4 @@
 # harshini.sg.github.io.
-Happy Birthday Kishuuu :) 
+Happy Birthday Kishore
 
 https://harshini.sg.github.io./
